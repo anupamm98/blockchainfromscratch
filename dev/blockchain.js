@@ -7,6 +7,8 @@ function Blockchain(){
     this.pendingTransactions=[];
     this.currentNodeUrl= currentNodeUrl;
     this.networkNodes=[];
+    this.policies=[];
+
 
     //Genesis Block
     this.createNewBlock(100, '0', '0');
@@ -33,11 +35,12 @@ Blockchain.prototype.getLastBlock= function () {
     return this.chain[this.chain.length-1];
 }
 
-Blockchain.prototype.createNewTransaction=function (amount, sender, recipient) {
+Blockchain.prototype.createNewTransaction=function (filename, sender, recipient, dataHash) {
     const newTransaction={
-        amount: amount,
+        filename: filename,
         sender: sender,
         recipient: recipient,
+        datahash: dataHash,
         transactionId: uuid().split('-').join('')
     }
 
@@ -126,19 +129,30 @@ Blockchain.prototype.getAddressData= function (address) {
             }
         })
     })
-    let balance=0;
+    let fileHashes=[];
     addressTransactions.forEach(transaction=>{
         if(transaction.recipient===address){
-            balance+= transaction.amount
+            filehashes.push(transaction.datahash);
         }else if(transaction.sender===address){
-            balance-= transaction.amount
+            var index = fileHashes.indexOf(transaction.datahash);
+            if (index !== -1) {
+                array.splice(index, 1);
+            }
         }
     })
 
     return {
         addressTransactions: addressTransactions,
-        addressBalance: balance
+        filehashes: fileHashes
     };
+}
+
+Blockchain.prototype.createPolicyBlock= function(requester, requestee, permission){
+    return {
+        requester: requester,
+        requestee: requestee,
+        permission: permission
+    }
 }
 
 

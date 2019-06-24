@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21063d36-2974-4015-b350-0c70e716deab" name="Default" comment="" />
+    <list default="true" id="21063d36-2974-4015-b350-0c70e716deab" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/blockchain.js" afterPath="$PROJECT_DIR$/dev/blockchain.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dev/networkNode.js" afterPath="$PROJECT_DIR$/dev/networkNode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,14 +24,14 @@
       <file leaf-file-name="blockchain.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/blockchain.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="142" column="0" lean-forward="true" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+            <state relative-caret-position="2628">
+              <caret line="146" column="2" lean-forward="false" selection-start-line="146" selection-start-column="2" selection-end-line="146" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dev/block-explorer/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3978">
@@ -35,11 +41,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="networkNode.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="networkNode.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dev/networkNode.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="263" column="63" lean-forward="false" selection-start-line="263" selection-start-column="63" selection-end-line="263" selection-end-column="63" />
+            <state relative-caret-position="-1332">
+              <caret line="209" column="34" lean-forward="false" selection-start-line="209" selection-start-column="34" selection-end-line="209" selection-end-column="34" />
+              <folding>
+                <element signature="e#688#1933#0" expanded="false" />
+                <element signature="e#1979#2490#0" expanded="false" />
+                <element signature="e#3659#4590#0" expanded="false" />
+                <element signature="e#4643#5251#0" expanded="false" />
+                <element signature="e#7554#7801#0" expanded="false" />
+                <element signature="e#7921#8359#0" expanded="false" />
+                <element signature="e#10751#10898#0" expanded="false" />
+                <element signature="e#10959#11185#0" expanded="false" />
+                <element signature="e#11236#11387#0" expanded="false" />
+                <element signature="e#11436#11506#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,8 +75,28 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+            <state relative-caret-position="216">
+              <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test%20storage" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scratch/3002/test%20storage">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test%20storage%201" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scratch/3001/test%20storage%201">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -58,9 +105,11 @@
       <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4746">
-              <caret line="3057" column="0" lean-forward="false" selection-start-line="3057" selection-start-column="0" selection-end-line="3057" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="55890">
+              <caret line="3105" column="0" lean-forward="false" selection-start-line="3105" selection-start-column="0" selection-end-line="3105" selection-end-column="0" />
+              <folding>
+                <marker date="1561271676125" expanded="true" signature="107346:107355" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/dev/test.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -84,15 +133,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dev/test.js" />
         <option value="$PROJECT_DIR$/dev/api.js" />
+        <option value="$PROJECT_DIR$/dev/block-explorer/index.html" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/dev/blockchain.js" />
         <option value="$PROJECT_DIR$/dev/networkNode.js" />
-        <option value="$PROJECT_DIR$/dev/block-explorer/index.html" />
       </list>
     </option>
   </component>
@@ -106,11 +158,12 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="880" />
-    <option name="y" value="88" />
-    <option name="width" value="1112" />
-    <option name="height" value="1048" />
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1857" />
+    <option name="height" value="1092" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -127,53 +180,67 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlockChainProjects" />
+              <option name="myItemId" value="On device" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlockChainProjects" />
+              <option name="myItemId" value="On device" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlockChainProjects" />
+              <option name="myItemId" value="On device" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlockChainProjects" />
+              <option name="myItemId" value="On device" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="dev" />
+              <option name="myItemId" value="scratch" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlockChainProjects" />
+              <option name="myItemId" value="On device" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="BlockChainProjects" />
+              <option name="myItemId" value="On device" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scratch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3001" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="On device" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="On device" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dev" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="block-explorer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,25 +349,35 @@
       <workItem from="1528877349421" duration="3902000" />
       <workItem from="1528889998018" duration="8722000" />
       <workItem from="1532455997937" duration="8129000" />
+      <workItem from="1535884571459" duration="1429000" />
+      <workItem from="1541134392115" duration="33000" />
+      <workItem from="1552068502763" duration="2086000" />
+      <workItem from="1554983930998" duration="13000" />
+      <workItem from="1560978979779" duration="1685000" />
+      <workItem from="1561062984254" duration="279000" />
+      <workItem from="1561222127919" duration="10000" />
+      <workItem from="1561222207210" duration="6596000" />
+      <workItem from="1561270613377" duration="21445000" />
+      <workItem from="1561324666380" duration="404000" />
+      <workItem from="1561350104895" duration="246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36293000" />
+    <option name="totallyTimeSpent" value="70519000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="880" y="88" width="1112" height="1048" extended-state="1" />
-    <editor active="true" />
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39853075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23689957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3409091" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32881" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -317,23 +394,52 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dev/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dev/blockchain.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="2556">
+          <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dev/networkNode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="100" column="12" lean-forward="true" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="4734">
+          <caret line="263" column="63" lean-forward="false" selection-start-line="263" selection-start-column="63" selection-end-line="263" selection-end-column="63" />
+          <folding>
+            <element signature="e#688#1933#0" expanded="false" />
+            <element signature="e#1979#2490#0" expanded="false" />
+            <element signature="e#3659#4590#0" expanded="false" />
+            <element signature="e#4643#5251#0" expanded="false" />
+            <element signature="e#7554#7801#0" expanded="false" />
+            <element signature="e#7921#8359#0" expanded="false" />
+            <element signature="e#10751#10898#0" expanded="false" />
+            <element signature="e#10959#11185#0" expanded="false" />
+            <element signature="e#11236#11387#0" expanded="false" />
+            <element signature="e#11436#11506#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -349,7 +455,192 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55026">
           <caret line="3057" column="0" lean-forward="false" selection-start-line="3057" selection-start-column="0" selection-end-line="3057" selection-end-column="0" />
+          <folding>
+            <marker date="1561271676125" expanded="true" signature="107346:107355" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/block-explorer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="221" column="7" lean-forward="false" selection-start-line="221" selection-start-column="7" selection-end-line="221" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/blockchain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2556">
+          <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/networkNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4734">
+          <caret line="263" column="63" lean-forward="false" selection-start-line="263" selection-start-column="63" selection-end-line="263" selection-end-column="63" />
+          <folding>
+            <element signature="e#688#1933#0" expanded="false" />
+            <element signature="e#1979#2490#0" expanded="false" />
+            <element signature="e#3659#4590#0" expanded="false" />
+            <element signature="e#4643#5251#0" expanded="false" />
+            <element signature="e#7554#7801#0" expanded="false" />
+            <element signature="e#7921#8359#0" expanded="false" />
+            <element signature="e#10751#10898#0" expanded="false" />
+            <element signature="e#10959#11185#0" expanded="false" />
+            <element signature="e#11236#11387#0" expanded="false" />
+            <element signature="e#11436#11506#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55026">
+          <caret line="3057" column="0" lean-forward="false" selection-start-line="3057" selection-start-column="0" selection-end-line="3057" selection-end-column="0" />
+          <folding>
+            <marker date="1561271676125" expanded="true" signature="107346:107355" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/block-explorer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="221" column="7" lean-forward="false" selection-start-line="221" selection-start-column="7" selection-end-line="221" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/blockchain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2556">
+          <caret line="142" column="0" lean-forward="true" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/networkNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4734">
+          <caret line="263" column="63" lean-forward="false" selection-start-line="263" selection-start-column="63" selection-end-line="263" selection-end-column="63" />
+          <folding>
+            <element signature="e#688#1933#0" expanded="false" />
+            <element signature="e#1979#2490#0" expanded="false" />
+            <element signature="e#3659#4590#0" expanded="false" />
+            <element signature="e#4643#5251#0" expanded="false" />
+            <element signature="e#7554#7801#0" expanded="false" />
+            <element signature="e#7921#8359#0" expanded="false" />
+            <element signature="e#10751#10898#0" expanded="false" />
+            <element signature="e#10959#11185#0" expanded="false" />
+            <element signature="e#11236#11387#0" expanded="false" />
+            <element signature="e#11436#11506#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55026">
+          <caret line="3057" column="0" lean-forward="false" selection-start-line="3057" selection-start-column="0" selection-end-line="3057" selection-end-column="0" />
+          <folding>
+            <marker date="1561271676125" expanded="true" signature="107346:107355" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/block-explorer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="221" column="7" lean-forward="false" selection-start-line="221" selection-start-column="7" selection-end-line="221" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/blockchain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/networkNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="100" column="12" lean-forward="true" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
+          <folding>
+            <element signature="e#688#1933#0" expanded="false" />
+            <element signature="e#1979#2490#0" expanded="false" />
+            <element signature="e#3659#4590#0" expanded="false" />
+            <element signature="e#4643#5251#0" expanded="false" />
+            <element signature="e#7554#7801#0" expanded="false" />
+            <element signature="e#7921#8359#0" expanded="false" />
+            <element signature="e#10751#10898#0" expanded="false" />
+            <element signature="e#10959#11185#0" expanded="false" />
+            <element signature="e#11236#11387#0" expanded="false" />
+            <element signature="e#11436#11506#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55026">
+          <caret line="3057" column="0" lean-forward="false" selection-start-line="3057" selection-start-column="0" selection-end-line="3057" selection-end-column="0" />
+          <folding>
+            <marker date="1561271676125" expanded="true" signature="107346:107355" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -381,7 +672,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55026">
           <caret line="3057" column="0" lean-forward="false" selection-start-line="3057" selection-start-column="0" selection-end-line="3057" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1561271676125" expanded="true" signature="107346:107355" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -397,7 +690,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2178">
           <caret line="121" column="0" lean-forward="true" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#688#1933#0" expanded="false" />
+            <element signature="e#1979#2490#0" expanded="false" />
+            <element signature="e#3659#4590#0" expanded="false" />
+            <element signature="e#4643#5251#0" expanded="false" />
+            <element signature="e#7554#7801#0" expanded="false" />
+            <element signature="e#7921#8359#0" expanded="false" />
+            <element signature="e#10751#10898#0" expanded="false" />
+            <element signature="e#10959#11185#0" expanded="false" />
+            <element signature="e#11236#11387#0" expanded="false" />
+            <element signature="e#11436#11506#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -413,7 +717,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
           <caret line="95" column="53" lean-forward="false" selection-start-line="95" selection-start-column="53" selection-end-line="95" selection-end-column="53" />
-          <folding />
+          <folding>
+            <element signature="e#688#1933#0" expanded="false" />
+            <element signature="e#1979#2490#0" expanded="false" />
+            <element signature="e#3659#4590#0" expanded="false" />
+            <element signature="e#4643#5251#0" expanded="false" />
+            <element signature="e#7554#7801#0" expanded="false" />
+            <element signature="e#7921#8359#0" expanded="false" />
+            <element signature="e#10751#10898#0" expanded="false" />
+            <element signature="e#10959#11185#0" expanded="false" />
+            <element signature="e#11236#11387#0" expanded="false" />
+            <element signature="e#11436#11506#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -421,7 +736,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55026">
           <caret line="3057" column="0" lean-forward="false" selection-start-line="3057" selection-start-column="0" selection-end-line="3057" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1561271676125" expanded="true" signature="107346:107355" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -453,7 +770,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="42" column="6" lean-forward="false" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-          <folding />
+          <folding>
+            <element signature="e#688#1933#0" expanded="false" />
+            <element signature="e#1979#2490#0" expanded="false" />
+            <element signature="e#3659#4590#0" expanded="false" />
+            <element signature="e#4643#5251#0" expanded="false" />
+            <element signature="e#7554#7801#0" expanded="false" />
+            <element signature="e#7921#8359#0" expanded="false" />
+            <element signature="e#10751#10898#0" expanded="false" />
+            <element signature="e#10959#11185#0" expanded="false" />
+            <element signature="e#11236#11387#0" expanded="false" />
+            <element signature="e#11436#11506#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -469,7 +797,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="49014">
           <caret line="2723" column="0" lean-forward="true" selection-start-line="2723" selection-start-column="0" selection-end-line="2723" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1561271676125" expanded="true" signature="107346:107355" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -497,42 +827,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55890">
+          <caret line="3105" column="0" lean-forward="false" selection-start-line="3105" selection-start-column="0" selection-end-line="3105" selection-end-column="0" />
+          <folding>
+            <marker date="1561271676125" expanded="true" signature="107346:107355" ph="{&quot;graceful-fs&quot;: &quot;4.1.11&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dev/test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4746">
-          <caret line="3057" column="0" lean-forward="false" selection-start-line="3057" selection-start-column="0" selection-end-line="3057" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/blockchain.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="142" column="0" lean-forward="true" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/networkNode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="263" column="63" lean-forward="false" selection-start-line="263" selection-start-column="63" selection-end-line="263" selection-end-column="63" />
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -542,6 +850,65 @@
         <state relative-caret-position="3978">
           <caret line="221" column="7" lean-forward="false" selection-start-line="221" selection-start-column="7" selection-end-line="221" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/blockchain.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2628">
+          <caret line="146" column="2" lean-forward="false" selection-start-line="146" selection-start-column="2" selection-end-line="146" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch/3002/test%20storage">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch/3001/test%20storage%201">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/networkNode.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1332">
+          <caret line="209" column="34" lean-forward="false" selection-start-line="209" selection-start-column="34" selection-end-line="209" selection-end-column="34" />
+          <folding>
+            <element signature="e#688#1933#0" expanded="false" />
+            <element signature="e#1979#2490#0" expanded="false" />
+            <element signature="e#3659#4590#0" expanded="false" />
+            <element signature="e#4643#5251#0" expanded="false" />
+            <element signature="e#7554#7801#0" expanded="false" />
+            <element signature="e#7921#8359#0" expanded="false" />
+            <element signature="e#10751#10898#0" expanded="false" />
+            <element signature="e#10959#11185#0" expanded="false" />
+            <element signature="e#11236#11387#0" expanded="false" />
+            <element signature="e#11436#11506#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
